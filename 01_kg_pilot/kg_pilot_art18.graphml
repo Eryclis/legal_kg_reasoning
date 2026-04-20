@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d17" for="edge" attr.name="resolved" attr.type="boolean" />
+  <key id="d16" for="edge" attr.name="needs_llm_classification" attr.type="boolean" />
+  <key id="d15" for="edge" attr.name="context" attr.type="string" />
+  <key id="d14" for="edge" attr.name="citation_text" attr.type="string" />
+  <key id="d13" for="edge" attr.name="sub_ref" attr.type="string" />
+  <key id="d12" for="edge" attr.name="sub_type" attr.type="string" />
+  <key id="d11" for="edge" attr.name="nome_corpus" attr.type="string" />
+  <key id="d10" for="edge" attr.name="dispositivo_legal_id" attr.type="long" />
+  <key id="d9" for="edge" attr.name="is_leading_case" attr.type="boolean" />
+  <key id="d8" for="edge" attr.name="semelhantes" attr.type="long" />
+  <key id="d7" for="edge" attr.name="status" attr.type="string" />
+  <key id="d6" for="edge" attr.name="edition" attr.type="string" />
+  <key id="d5" for="edge" attr.name="type" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d2" for="node" attr.name="weight" attr.type="double" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="CDC_art18">
+      <data key="d0">LegalProvision</data>
+      <data key="d1">CDC_art18</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CC_ADI_5158">
+      <data key="d0">ConstitutionalControl</data>
+      <data key="d1">ADI / 5158</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="STJThesis_EDIÇÃO_N._83:_BANCÁRIO_-_II_t6">
+      <data key="d0">STJThesis</data>
+      <data key="d1">6) Não há relação de acessoriedade entre o contrato de compra e venda de
+bem de </data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t5">
+      <data key="d0">STJThesis</data>
+      <data key="d1">5) É cabível indenização por dano moral quando o consumidor de veículo
+zero-quil</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t6">
+      <data key="d0">STJThesis</data>
+      <data key="d1">6) A constatação de defeito em veículo zero-quilômetro revela hipótese de
+vício </data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t12">
+      <data key="d0">STJThesis</data>
+      <data key="d1">12) O início da contagem do prazo de decadência para a reclamação de vícios
+do p</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="STJThesis_EDIÇÃO_N._74:_DIREITO_DO_CONSUMIDOR_III_t18">
+      <data key="d0">STJThesis</data>
+      <data key="d1">18) É solidária a responsabilidade entre aqueles que veiculam publicidade
+engano</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="STJThesis_EDIÇÃO_N._99:_DOS_CRIMES_CONTRA_A_ORDEM_TRIBUTÁRIA,ECONÔMICA_E_CONTRA_AS_RELAÇÕES_DE_CONSUMO_-_II_t9">
+      <data key="d0">STJThesis</data>
+      <data key="d1">9) É indispensável a realização de perícia para a demonstração da
+materialidade </data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="STJThesis_EDIÇÃO_N._189:_EMBARGOS_DE_DECLARAÇÃO_I_t7">
+      <data key="d0">STJThesis</data>
+      <data key="d1">7) Admite-se, excepcionalmente, a oposição de embargos de declaração para obter </data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="Topic_449">
+      <data key="d0">RepetitiveTopic</data>
+      <data key="d1">Tema 449</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="Topic_200">
+      <data key="d0">RepetitiveTopic</data>
+      <data key="d1">Tema 200</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="REsp_1556132">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1556132</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="REsp_1825020">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1825020</data>
+      <data key="d2">0.8563</data>
+    </node>
+    <node id="HC_263025">
+      <data key="d0">Case</data>
+      <data key="d1">HC 263025</data>
+      <data key="d2">0.7969</data>
+    </node>
+    <node id="REsp_1111736">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1111736</data>
+      <data key="d2">0.7969</data>
+    </node>
+    <node id="AREsp_627782">
+      <data key="d0">Case</data>
+      <data key="d1">AREsp 627782</data>
+      <data key="d2">0.7214</data>
+    </node>
+    <node id="REsp_1597668">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1597668</data>
+      <data key="d2">0.6744</data>
+    </node>
+    <node id="AREsp_1691422">
+      <data key="d0">Case</data>
+      <data key="d1">AREsp 1691422</data>
+      <data key="d2">0.618</data>
+    </node>
+    <node id="REsp_1644405">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1644405</data>
+      <data key="d2">0.618</data>
+    </node>
+    <node id="REsp_1060917">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1060917</data>
+      <data key="d2">0.6476</data>
+    </node>
+    <node id="AREsp_2154169">
+      <data key="d0">Case</data>
+      <data key="d1">AREsp 2154169</data>
+      <data key="d2">0.5849</data>
+    </node>
+    <node id="REsp_1737415">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1737415</data>
+      <data key="d2">0.618</data>
+    </node>
+    <node id="HC_191663">
+      <data key="d0">Case</data>
+      <data key="d1">HC 191663</data>
+      <data key="d2">0.618</data>
+    </node>
+    <node id="REsp_1300606">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1300606</data>
+      <data key="d2">0.618</data>
+    </node>
+    <node id="AREsp_1276462">
+      <data key="d0">Case</data>
+      <data key="d1">AREsp 1276462</data>
+      <data key="d2">0.5849</data>
+    </node>
+    <node id="AREsp_92525">
+      <data key="d0">Case</data>
+      <data key="d1">AREsp 92525</data>
+      <data key="d2">0.5473</data>
+    </node>
+    <node id="REsp_1289795">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1289795</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="EREsp_981949">
+      <data key="d0">Case</data>
+      <data key="d1">EREsp 981949</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="REsp_1067230">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1067230</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="REsp_1102578">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1102578</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="REsp_1181141">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1181141</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="REsp_802832">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 802832</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="REsp_1252215">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1252215</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="REsp_1576779">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1576779</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="HC_115650">
+      <data key="d0">Case</data>
+      <data key="d1">HC 115650</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="AREsp_1724643">
+      <data key="d0">Case</data>
+      <data key="d1">AREsp 1724643</data>
+      <data key="d2">0.4527</data>
+    </node>
+    <node id="AREsp_1066454">
+      <data key="d0">Case</data>
+      <data key="d1">AREsp 1066454</data>
+      <data key="d2">0.3899</data>
+    </node>
+    <node id="REsp_1638034">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1638034</data>
+      <data key="d2">0.3899</data>
+    </node>
+    <node id="REsp_1299803">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1299803</data>
+      <data key="d2">0.3899</data>
+    </node>
+    <node id="REsp_1898171">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1898171</data>
+      <data key="d2">0.3899</data>
+    </node>
+    <node id="REsp_1610821">
+      <data key="d0">Case</data>
+      <data key="d1">REsp 1610821</data>
+      <data key="d2">0.3899</data>
+    </node>
+    <node id="CDC_art18_par1">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">§ 1°</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par1_incI">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">I</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par1_incII">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">II</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par1_incIII">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">III</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par2">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">§ 2°</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par3">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">§ 3°</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par4">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">§ 4°</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par5">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">§ 5°</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par6">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">§ 6°</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par6_incI">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">I</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par6_incII">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">II</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="CDC_art18_par6_incIII">
+      <data key="d0">LegalSubProvision</data>
+      <data key="d1">III</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="EXT_RESP_1453275/SC">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">REsp 1453275/SC</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_ARTIGO_18_DO_CÓDIGO_DE_DEFESA_DO_CONSUMIDOR">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">artigo 18 do Código de Defesa do Consumidor</data>
+      <data key="d2">1.0</data>
+    </node>
+    <node id="EXT_RESP_1.651.550/DF">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">REsp 1.651.550/DF</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_RESP_1477691/DF">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">REsp  1477691/DF</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_HC_195.824/DF">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">HC 195.824/DF</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_RESP_1175679/RS">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">REsp 1175679/RS</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_HC_132.257/SP">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">HC 132.257/SP</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_HC_90779,">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">HC 90779,</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_RESP_466.667/SP">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">REsp 466.667/SP</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_RESP_1.243.632/RS">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">REsp 1.243.632/RS</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_RESP_929.893/PR">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">REsp 929.893/PR</data>
+      <data key="d2">0.5</data>
+    </node>
+    <node id="EXT_RESP_962.980/SP">
+      <data key="d0">ExternalCitation</data>
+      <data key="d1">REsp 962.980/SP</data>
+      <data key="d2">0.5</data>
+    </node>
+    <edge source="CDC_art18" target="CC_ADI_5158">
+      <data key="d3">CONTROLLED_BY</data>
+      <data key="d4">1.0</data>
+      <data key="d5">constitutional_control</data>
+    </edge>
+    <edge source="CDC_art18" target="STJThesis_EDIÇÃO_N._83:_BANCÁRIO_-_II_t6">
+      <data key="d3">SUMMARIZED_BY_STJ_THESIS</data>
+      <data key="d4">0.9</data>
+      <data key="d6">EDIÇÃO N. 83: BANCÁRIO - II</data>
+    </edge>
+    <edge source="CDC_art18" target="STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t5">
+      <data key="d3">SUMMARIZED_BY_STJ_THESIS</data>
+      <data key="d4">0.9</data>
+      <data key="d6">EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II</data>
+    </edge>
+    <edge source="CDC_art18" target="STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t6">
+      <data key="d3">SUMMARIZED_BY_STJ_THESIS</data>
+      <data key="d4">0.9</data>
+      <data key="d6">EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II</data>
+    </edge>
+    <edge source="CDC_art18" target="STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t12">
+      <data key="d3">SUMMARIZED_BY_STJ_THESIS</data>
+      <data key="d4">0.9</data>
+      <data key="d6">EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II</data>
+    </edge>
+    <edge source="CDC_art18" target="STJThesis_EDIÇÃO_N._74:_DIREITO_DO_CONSUMIDOR_III_t18">
+      <data key="d3">SUMMARIZED_BY_STJ_THESIS</data>
+      <data key="d4">0.9</data>
+      <data key="d6">EDIÇÃO N. 74: DIREITO DO CONSUMIDOR III</data>
+    </edge>
+    <edge source="CDC_art18" target="STJThesis_EDIÇÃO_N._99:_DOS_CRIMES_CONTRA_A_ORDEM_TRIBUTÁRIA,ECONÔMICA_E_CONTRA_AS_RELAÇÕES_DE_CONSUMO_-_II_t9">
+      <data key="d3">SUMMARIZED_BY_STJ_THESIS</data>
+      <data key="d4">0.9</data>
+      <data key="d6">EDIÇÃO N. 99: DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA,ECONÔMICA E
+CONTRA AS RELAÇÕES DE CONSUMO - II</data>
+    </edge>
+    <edge source="CDC_art18" target="STJThesis_EDIÇÃO_N._189:_EMBARGOS_DE_DECLARAÇÃO_I_t7">
+      <data key="d3">SUMMARIZED_BY_STJ_THESIS</data>
+      <data key="d4">0.9</data>
+      <data key="d6">EDIÇÃO N. 189: EMBARGOS DE DECLARAÇÃO I</data>
+    </edge>
+    <edge source="CDC_art18" target="Topic_449">
+      <data key="d3">INTERPRETED_BY_BINDING_THESIS</data>
+      <data key="d4">1.0</data>
+      <data key="d7">Trânsito em Julgado</data>
+    </edge>
+    <edge source="CDC_art18" target="Topic_200">
+      <data key="d3">INTERPRETED_BY_BINDING_THESIS</data>
+      <data key="d4">1.0</data>
+      <data key="d7">Trânsito em Julgado</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1556132">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">1.0</data>
+      <data key="d8">34</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1825020">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.8563</data>
+      <data key="d8">20</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="HC_263025">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.7969</data>
+      <data key="d8">16</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1111736">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.7969</data>
+      <data key="d8">16</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="AREsp_627782">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.7214</data>
+      <data key="d8">12</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1597668">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.6744</data>
+      <data key="d8">10</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="AREsp_1691422">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.618</data>
+      <data key="d8">8</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1644405">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.618</data>
+      <data key="d8">8</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1060917">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.6476</data>
+      <data key="d8">9</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="AREsp_2154169">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.5849</data>
+      <data key="d8">7</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1737415">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.618</data>
+      <data key="d8">8</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="HC_191663">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.618</data>
+      <data key="d8">8</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1300606">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.618</data>
+      <data key="d8">8</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="AREsp_1276462">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.5849</data>
+      <data key="d8">7</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="AREsp_92525">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.5473</data>
+      <data key="d8">6</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1289795">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="EREsp_981949">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1067230">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1102578">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1181141">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_802832">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1252215">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1576779">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="HC_115650">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="AREsp_1724643">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.4527</data>
+      <data key="d8">4</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="AREsp_1066454">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.3899</data>
+      <data key="d8">3</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1638034">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.3899</data>
+      <data key="d8">3</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1299803">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.3899</data>
+      <data key="d8">3</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1898171">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.3899</data>
+      <data key="d8">3</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="REsp_1610821">
+      <data key="d3">INTERPRETED_BY_LEADING_CASE</data>
+      <data key="d4">0.3899</data>
+      <data key="d8">3</data>
+      <data key="d9">True</data>
+      <data key="d10">78</data>
+      <data key="d11">mix</data>
+    </edge>
+    <edge source="CDC_art18" target="CDC_art18_par1">
+      <data key="d3">HAS_SUB_PROVISION</data>
+      <data key="d4">1.0</data>
+      <data key="d12">paragraph</data>
+      <data key="d13">§ 1°</data>
+    </edge>
+    <edge source="CDC_art18" target="CDC_art18_par2">
+      <data key="d3">HAS_SUB_PROVISION</data>
+      <data key="d4">1.0</data>
+      <data key="d12">paragraph</data>
+      <data key="d13">§ 2°</data>
+    </edge>
+    <edge source="CDC_art18" target="CDC_art18_par3">
+      <data key="d3">HAS_SUB_PROVISION</data>
+      <data key="d4">1.0</data>
+      <data key="d12">paragraph</data>
+      <data key="d13">§ 3°</data>
+    </edge>
+    <edge source="CDC_art18" target="CDC_art18_par4">
+      <data key="d3">HAS_SUB_PROVISION</data>
+      <data key="d4">1.0</data>
+      <data key="d12">paragraph</data>
+      <data key="d13">§ 4°</data>
+    </edge>
+    <edge source="CDC_art18" target="CDC_art18_par5">
+      <data key="d3">HAS_SUB_PROVISION</data>
+      <data key="d4">1.0</data>
+      <data key="d12">paragraph</data>
+      <data key="d13">§ 5°</data>
+    </edge>
+    <edge source="CDC_art18" target="CDC_art18_par6">
+      <data key="d3">HAS_SUB_PROVISION</data>
+      <data key="d4">1.0</data>
+      <data key="d12">paragraph</data>
+      <data key="d13">§ 6°</data>
+    </edge>
+    <edge source="REsp_1556132" target="EXT_RESP_1453275/SC">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">REsp 1453275/SC</data>
+      <data key="d15">tatação que se limita a elencar a mercadoria apreendida. 2. Recurso provido. (REsp 1453275/SC, da minha relatoria, SEXTA TURMA, julgado em 15/09/2015, DJe 01/10/2015) RECUR</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="REsp_1556132" target="EXT_ARTIGO_18_DO_CÓDIGO_DE_DEFESA_DO_CONSUMIDOR">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">1.0</data>
+      <data key="d14">artigo 18 do Código de Defesa do Consumidor</data>
+      <data key="d15">cerca do conceito de produto impróprio para o consumo, dispõe o parágrafo 6º do artigo 18 do Código de Defesa do Consumidor, verbis: § 6° São impróprios ao uso e consumo: I -  os produtos cujos prazos </data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="REsp_1825020" target="EXT_RESP_1.651.550/DF">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">REsp 1.651.550/DF</data>
+      <data key="d15">onais, sob pena de usurpação da competência reservada à Corte Suprema" (AgRg no REsp 1.651.550/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/04/2017, DJe 05/05/2017</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="HC_263025" target="EXT_RESP_1477691/DF">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">REsp  1477691/DF</data>
+      <data key="d15">stra LAURITA VAZ, QUINTA TURMA, julgado em 28/05/2013, DJe 06/06/2013 e AgRg no REsp  1477691/DF,  Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/10/2016, DJe 28/10/20</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="HC_263025" target="EXT_HC_195.824/DF">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">HC 195.824/DF</data>
+      <data key="d15"> é formal, não estando incluído na exigência da referida  Súmula  Vinculante.  (HC 195.824/DF, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 28/05/2013, DJe 06/06/2013</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="REsp_1111736" target="EXT_RESP_1175679/RS">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">REsp 1175679/RS</data>
+      <data key="d15">ercadorias apreendidas estavam em condições impróprias para o consumo. (AgRg no REsp 1175679/RS, Relator o Ministro Sebastião Reis Júnior, DJe 28/3/2012). Para caracterizar o</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="REsp_1111736" target="EXT_HC_132.257/SP">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">HC 132.257/SP</data>
+      <data key="d15">nsável a demonstração inequívoca da potencialidade lesiva ao consumidor final. (HC 132.257/SP, Relatora a Ministra Laurita Vaz, DJe 08/09/2011). Não é diferente o entendime</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="REsp_1111736" target="EXT_HC_90779,">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">HC 90779,</data>
+      <data key="d15">ericial para aferir a nocividade dos produtos apreendidos. 3. Ordem concedida. (HC 90779, Relator o Ministro CARLOS BRITTO, DJe 23/10/2008).  Portanto, ao que se tem, n</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="AREsp_627782" target="EXT_RESP_466.667/SP">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">REsp 466.667/SP</data>
+      <data key="d15"> pacto celebrado, qual seja, o de assegurar eficiente amparo à saúde e à vida" (REsp 466.667/SP, Rel. Ministro Aldir Passarinho Júnior, Quarta Turma, julgado em 27.11.2007, DJ</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="AREsp_627782" target="EXT_RESP_1.243.632/RS">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">REsp 1.243.632/RS</data>
+      <data key="d15">cos da Terceira e da Quarta Turma do STJ. (...) 4. RECURSO ESPECIAL PROVIDO. (REsp 1.243.632/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 11.09.201</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="AREsp_627782" target="EXT_RESP_929.893/PR">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">REsp 929.893/PR</data>
+      <data key="d15"> teor da Súmula 7/STJ. 3. Agravo regimental a que se nega provimento. (AgRg no REsp 929.893/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 15.03.2012, DJe 13.04.2012</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="AREsp_627782" target="EXT_RESP_962.980/SP">
+      <data key="d3">CITES_EXTERNAL</data>
+      <data key="d4">0.5</data>
+      <data key="d14">REsp 962.980/SP</data>
+      <data key="d15">L-00209-02 PP-00821) 7. Recurso especial provido para restabelecer a sentença. (REsp 962.980/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13.03.2012, DJe 15</data>
+      <data key="d16">True</data>
+      <data key="d17">False</data>
+    </edge>
+    <edge source="CDC_art18_par1" target="CDC_art18_par1_incI">
+      <data key="d3">HAS_INCISE</data>
+      <data key="d4">1.0</data>
+      <data key="d12">incise</data>
+      <data key="d13">I</data>
+    </edge>
+    <edge source="CDC_art18_par1" target="CDC_art18_par1_incII">
+      <data key="d3">HAS_INCISE</data>
+      <data key="d4">1.0</data>
+      <data key="d12">incise</data>
+      <data key="d13">II</data>
+    </edge>
+    <edge source="CDC_art18_par1" target="CDC_art18_par1_incIII">
+      <data key="d3">HAS_INCISE</data>
+      <data key="d4">1.0</data>
+      <data key="d12">incise</data>
+      <data key="d13">III</data>
+    </edge>
+    <edge source="CDC_art18_par6" target="CDC_art18_par6_incI">
+      <data key="d3">HAS_INCISE</data>
+      <data key="d4">1.0</data>
+      <data key="d12">incise</data>
+      <data key="d13">I</data>
+    </edge>
+    <edge source="CDC_art18_par6" target="CDC_art18_par6_incII">
+      <data key="d3">HAS_INCISE</data>
+      <data key="d4">1.0</data>
+      <data key="d12">incise</data>
+      <data key="d13">II</data>
+    </edge>
+    <edge source="CDC_art18_par6" target="CDC_art18_par6_incIII">
+      <data key="d3">HAS_INCISE</data>
+      <data key="d4">1.0</data>
+      <data key="d12">incise</data>
+      <data key="d13">III</data>
+    </edge>
+  </graph>
+</graphml>

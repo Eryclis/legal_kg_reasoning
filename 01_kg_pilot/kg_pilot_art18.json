@@ -1,0 +1,1531 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-20T16:39:48.162766",
+    "norma_id": 1,
+    "artigo_id": 18,
+    "source": "https://corpus927.enfam.jus.br",
+    "fetch_full_text": true
+  },
+  "nodes": [
+    {
+      "node_id": "CDC_art18",
+      "node_type": "LegalProvision",
+      "law": "CDC",
+      "article": 18,
+      "text": "Art. 18 . Os fornecedores de produtos de consumo duráveis ou não duráveis respondem\n    solidariamente pelos vícios de qualidade ou quantidade que os tornem impróprios ou\n    inadequados ao consumo a que se destinam ou lhes diminuam o valor, assim como por aqueles\n    decorrentes da disparidade, com a indicações constantes do recipiente, da embalagem,\n    rotulagem ou mensagem publicitária, respeitadas as variações decorrentes de sua\n    natureza, podendo o consumidor exigir a substituição das partes viciadas."
+    },
+    {
+      "node_id": "CC_ADI_5158",
+      "node_type": "ConstitutionalControl",
+      "title": "ADI / 5158",
+      "summary": "Ementa: DIREITO CONSTITUCIONAL E CONSUMIDOR. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 15.304/2014, DE PERNAMBUCO. IMPOSIÇÃO A MONTADORAS, CONCESSIONÁRIAS E IMPORTADORAS DE VEÍCULOS. FORNECIMENTO DE CARRO RESERVA EM REPAROS SUPERIORES A 15 DIAS, DURANTE GARANTIA CONTRATUAL. EXTRAPOLAÇÃO DE COMPETÊNCIA CONCORRENTE. INCONSTITUCIONALIDADE INTEGRAL DA LEI.   1. É inconstitucional,  por extrapolação de competência concorrente para legislar sobre matérias de consumo, lei estadual que impõe às montadoras, concessionárias e importadoras de veículos a obrigação de fornecer veículo reserva a clientes cu",
+      "publication_date": "2019-02-19",
+      "temporal_status": "active"
+    },
+    {
+      "node_id": "STJThesis_EDIÇÃO_N._83:_BANCÁRIO_-_II_t6",
+      "node_type": "STJThesis",
+      "edition": "EDIÇÃO N. 83: BANCÁRIO - II",
+      "thesis_text": "6) Não há relação de acessoriedade entre o contrato de compra e venda de\nbem de consumo e o de financiamento bancário com alienação fiduciária\ndestinado a viabilizar a aquisição do bem.",
+      "source_url": "",
+      "temporal_status": "active"
+    },
+    {
+      "node_id": "STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t5",
+      "node_type": "STJThesis",
+      "edition": "EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II",
+      "thesis_text": "5) É cabível indenização por dano moral quando o consumidor de veículo\nzero-quilômetro\nnecessita retornar à concessionária por diversas vezes para reparo de\ndefeitos\napresentados no veículo.",
+      "source_url": "",
+      "temporal_status": "active"
+    },
+    {
+      "node_id": "STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t6",
+      "node_type": "STJThesis",
+      "edition": "EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II",
+      "thesis_text": "6) A constatação de defeito em veículo zero-quilômetro revela hipótese de\nvício do\nproduto e impõe a responsabilização solidária da concessionária e do\nfabricante.",
+      "source_url": "",
+      "temporal_status": "active"
+    },
+    {
+      "node_id": "STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t12",
+      "node_type": "STJThesis",
+      "edition": "EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II",
+      "thesis_text": "12) O início da contagem do prazo de decadência para a reclamação de vícios\ndo produto (art. 26 do CDC) se dá após o encerramento da garantia\ncontratual.",
+      "source_url": "",
+      "temporal_status": "active"
+    },
+    {
+      "node_id": "STJThesis_EDIÇÃO_N._74:_DIREITO_DO_CONSUMIDOR_III_t18",
+      "node_type": "STJThesis",
+      "edition": "EDIÇÃO N. 74: DIREITO DO CONSUMIDOR III",
+      "thesis_text": "18) É solidária a responsabilidade entre aqueles que veiculam publicidade\nenganosa e os que dela se aproveitam na comercialização de seu produto\nou serviço.",
+      "source_url": "",
+      "temporal_status": "active"
+    },
+    {
+      "node_id": "STJThesis_EDIÇÃO_N._99:_DOS_CRIMES_CONTRA_A_ORDEM_TRIBUTÁRIA,ECONÔMICA_E_CONTRA_AS_RELAÇÕES_DE_CONSUMO_-_II_t9",
+      "node_type": "STJThesis",
+      "edition": "EDIÇÃO N. 99: DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA,ECONÔMICA E\nCONTRA AS RELAÇÕES DE CONSUMO - II",
+      "thesis_text": "9) É indispensável a realização de perícia para a demonstração da\nmaterialidade delitiva do crime contra as relações de consumo tipificado\nno art. 7º, parágrafo único, inciso IX, da Lei n. 8.137/1990.",
+      "source_url": "",
+      "temporal_status": "active"
+    },
+    {
+      "node_id": "STJThesis_EDIÇÃO_N._189:_EMBARGOS_DE_DECLARAÇÃO_I_t7",
+      "node_type": "STJThesis",
+      "edition": "EDIÇÃO N. 189: EMBARGOS DE DECLARAÇÃO I",
+      "thesis_text": "7) Admite-se, excepcionalmente, a oposição de embargos de declaração para obter a\njuntada de notas taquigráficas aos autos quando indispensáveis à compreensão do\nacórdão ou ao exercício da ampla defesa.",
+      "source_url": "",
+      "temporal_status": "active"
+    },
+    {
+      "node_id": "Topic_449",
+      "node_type": "RepetitiveTopic",
+      "title": "Tema 449",
+      "thesis": "A decadência do art. 26 do CDC não é aplicável à prestação de contas para obter esclarecimentos sobre cobrança de taxas, tarifas e encargos bancários. (O prazo de decadência estabelecido no art. 26 do Código de Defesa do Consumidor não é aplicável à ação de prestação de contas ajuizada com o escopo de se obter esclarecimentos acerca da cobrança de taxas, tarifas e/ou encargos bancários.)",
+      "status": "Trânsito em Julgado",
+      "publication_date": "2011-10-10",
+      "source_url": "",
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "Topic_200",
+      "node_type": "RepetitiveTopic",
+      "title": "Tema 200",
+      "thesis": "Estão revestidas de legalidade as normas expedidas pelo CONMETRO e INMETRO, e suas respectivas infrações, com o objetivo de regulamentar a qualidade industrial e a conformidade de produtos colocados no mercado de consumo.",
+      "status": "Trânsito em Julgado",
+      "publication_date": "2009-10-29",
+      "source_url": "",
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1556132",
+      "node_type": "Case",
+      "title": "REsp 1556132",
+      "full_text_hash": "jz76e52d9e6w",
+      "publication_date": "2016-03-31",
+      "rapporteur": "MARIA THEREZA DE ASSIS MOURA",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 1.0,
+      "similar_count": 34,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1825020",
+      "node_type": "Case",
+      "title": "REsp 1825020",
+      "full_text_hash": "z9mvjwrrjm1r",
+      "publication_date": "2019-10-28",
+      "rapporteur": "LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE)",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.8563,
+      "similar_count": 20,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "HC_263025",
+      "node_type": "Case",
+      "title": "HC 263025",
+      "full_text_hash": "7gyvmrkq346l",
+      "publication_date": "2018-02-16",
+      "rapporteur": "RIBEIRO DANTAS",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.7969,
+      "similar_count": 16,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1111736",
+      "node_type": "Case",
+      "title": "REsp 1111736",
+      "full_text_hash": "z9mvjb4mb1rn",
+      "publication_date": "2013-12-19",
+      "rapporteur": "MARCO AURÉLIO BELLIZZE",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.7969,
+      "similar_count": 16,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "AREsp_627782",
+      "node_type": "Case",
+      "title": "AREsp 627782",
+      "full_text_hash": "dlyv33ynkmvr",
+      "publication_date": "2015-03-11",
+      "rapporteur": "MARCO BUZZI",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.7214,
+      "similar_count": 12,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1597668",
+      "node_type": "Case",
+      "title": "REsp 1597668",
+      "full_text_hash": "8kl694w2mdvx",
+      "publication_date": "2016-08-26",
+      "rapporteur": "JOÃO OTÁVIO DE NORONHA",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.6744,
+      "similar_count": 10,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "AREsp_1691422",
+      "node_type": "Case",
+      "title": "AREsp 1691422",
+      "full_text_hash": "nk7v2gnddk6x",
+      "publication_date": "2020-09-16",
+      "rapporteur": "ASSUSETE MAGALHÃES",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.618,
+      "similar_count": 8,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1644405",
+      "node_type": "Case",
+      "title": "REsp 1644405",
+      "full_text_hash": "9en6nj7xkg1w",
+      "publication_date": "2017-11-17",
+      "rapporteur": "NANCY ANDRIGHI",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.618,
+      "similar_count": 8,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1060917",
+      "node_type": "Case",
+      "title": "REsp 1060917",
+      "full_text_hash": "b7d6xj5rrv42",
+      "publication_date": "2009-04-13",
+      "rapporteur": "ARNALDO ESTEVES LIMA",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.6476,
+      "similar_count": 9,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "AREsp_2154169",
+      "node_type": "Case",
+      "title": "AREsp 2154169",
+      "full_text_hash": "pr91rmdzbe6x",
+      "publication_date": "2022-11-03",
+      "rapporteur": "ANTONIO CARLOS FERREIRA",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.5849,
+      "similar_count": 7,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1737415",
+      "node_type": "Case",
+      "title": "REsp 1737415",
+      "full_text_hash": "b5x6q47z8k1k",
+      "publication_date": "2019-09-30",
+      "rapporteur": "LUIS FELIPE SALOMÃO",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.618,
+      "similar_count": 8,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "HC_191663",
+      "node_type": "Case",
+      "title": "HC 191663",
+      "full_text_hash": "wpg6dy34r68e",
+      "publication_date": "2013-04-24",
+      "rapporteur": "JORGE MUSSI",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.618,
+      "similar_count": 8,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1300606",
+      "node_type": "Case",
+      "title": "REsp 1300606",
+      "full_text_hash": "nk7129m8546x",
+      "publication_date": "2017-03-14",
+      "rapporteur": "ROGERIO SCHIETTI CRUZ",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.618,
+      "similar_count": 8,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "AREsp_1276462",
+      "node_type": "Case",
+      "title": "AREsp 1276462",
+      "full_text_hash": "y73683mrgrvr",
+      "publication_date": "2020-06-05",
+      "rapporteur": "MARIA ISABEL GALLOTTI",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.5849,
+      "similar_count": 7,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "AREsp_92525",
+      "node_type": "Case",
+      "title": "AREsp 92525",
+      "full_text_hash": "37nv5nnx93vx",
+      "publication_date": "2017-06-27",
+      "rapporteur": "MARIA ISABEL GALLOTTI",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.5473,
+      "similar_count": 6,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1289795",
+      "node_type": "Case",
+      "title": "REsp 1289795",
+      "full_text_hash": "b7d1x2bgypv4",
+      "publication_date": "2017-09-06",
+      "rapporteur": "RICARDO VILLAS BÔAS CUEVA",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "EREsp_981949",
+      "node_type": "Case",
+      "title": "EREsp 981949",
+      "full_text_hash": "7gy6mgrzn6lj",
+      "publication_date": "2011-08-15",
+      "rapporteur": "HERMAN BENJAMIN",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1067230",
+      "node_type": "Case",
+      "title": "REsp 1067230",
+      "full_text_hash": "dly13bylwvrg",
+      "publication_date": "2010-02-01",
+      "rapporteur": "JORGE MUSSI",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1102578",
+      "node_type": "Case",
+      "title": "REsp 1102578",
+      "full_text_hash": "9nd6l23ed1mx",
+      "publication_date": "2009-10-29",
+      "rapporteur": "ELIANA CALMON",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1181141",
+      "node_type": "Case",
+      "title": "REsp 1181141",
+      "full_text_hash": "7gy6mb9l8vlj",
+      "publication_date": "2010-09-13",
+      "rapporteur": "LAURITA VAZ",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_802832",
+      "node_type": "Case",
+      "title": "REsp 802832",
+      "full_text_hash": "9nd6lqkk8k1m",
+      "publication_date": "2011-09-21",
+      "rapporteur": "PAULO DE TARSO SANSEVERINO",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1252215",
+      "node_type": "Case",
+      "title": "REsp 1252215",
+      "full_text_hash": "7gyvmjdjjlvl",
+      "publication_date": "2018-06-29",
+      "rapporteur": "LÁZARO GUIMARÃES  (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO)",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1576779",
+      "node_type": "Case",
+      "title": "REsp 1576779",
+      "full_text_hash": "9jr6kqedxr64",
+      "publication_date": "2016-12-13",
+      "rapporteur": "ANTONIO CARLOS FERREIRA",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "HC_115650",
+      "node_type": "Case",
+      "title": "HC 115650",
+      "full_text_hash": "jz76ezl28l6w",
+      "publication_date": "2010-11-22",
+      "rapporteur": "LAURITA VAZ",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "AREsp_1724643",
+      "node_type": "Case",
+      "title": "AREsp 1724643",
+      "full_text_hash": "9nd6lrwpqx6m",
+      "publication_date": "2021-08-12",
+      "rapporteur": "MARIA ISABEL GALLOTTI",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.4527,
+      "similar_count": 4,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "AREsp_1066454",
+      "node_type": "Case",
+      "title": "AREsp 1066454",
+      "full_text_hash": "9jr1kqnpgw14",
+      "publication_date": "2017-05-03",
+      "rapporteur": "REYNALDO SOARES DA FONSECA",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.3899,
+      "similar_count": 3,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1638034",
+      "node_type": "Case",
+      "title": "REsp 1638034",
+      "full_text_hash": "8kl19423km6x",
+      "publication_date": "2017-12-15",
+      "rapporteur": "MARCO AURÉLIO BELLIZZE",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.3899,
+      "similar_count": 3,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1299803",
+      "node_type": "Case",
+      "title": "REsp 1299803",
+      "full_text_hash": "y7l6wqdjpw65",
+      "publication_date": "2015-10-13",
+      "rapporteur": "OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO)",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.3899,
+      "similar_count": 3,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1898171",
+      "node_type": "Case",
+      "title": "REsp 1898171",
+      "full_text_hash": "wpg6dknw38v8",
+      "publication_date": "2021-04-26",
+      "rapporteur": "NANCY ANDRIGHI",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.3899,
+      "similar_count": 3,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "REsp_1610821",
+      "node_type": "Case",
+      "title": "REsp 1610821",
+      "full_text_hash": "9en6nmmxb51w",
+      "publication_date": "2021-02-26",
+      "rapporteur": "LUIS FELIPE SALOMÃO",
+      "adjudicating_body": "",
+      "case_class": "",
+      "summary": "",
+      "full_text_url": "",
+      "authority_weight": 0.3899,
+      "similar_count": 3,
+      "temporal_status": "active",
+      "has_rg": false
+    },
+    {
+      "node_id": "CDC_art18_par1",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "§ 1°",
+      "sub_type": "paragraph",
+      "text": "§ 1° Não sendo o vício sanado no prazo máximo de trinta dias, pode o consumidor\n    exigir, alternativamente e à sua escolha:",
+      "parent_id": "CDC_art18"
+    },
+    {
+      "node_id": "CDC_art18_par1_incI",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "I",
+      "sub_type": "incise",
+      "text": "I - a substituição do produto por outro da mesma espécie, em perfeitas condições de\n    uso;",
+      "parent_id": "CDC_art18_par1"
+    },
+    {
+      "node_id": "CDC_art18_par1_incII",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "II",
+      "sub_type": "incise",
+      "text": "II - a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de\n    eventuais perdas e danos;",
+      "parent_id": "CDC_art18_par1"
+    },
+    {
+      "node_id": "CDC_art18_par1_incIII",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "III",
+      "sub_type": "incise",
+      "text": "III - o abatimento proporcional do preço.",
+      "parent_id": "CDC_art18_par1"
+    },
+    {
+      "node_id": "CDC_art18_par2",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "§ 2°",
+      "sub_type": "paragraph",
+      "text": "§ 2° Poderão as partes convencionar a redução ou ampliação do prazo previsto no\n    parágrafo anterior, não podendo ser inferior a sete nem superior a cento e oitenta dias.\n    Nos contratos de adesão, a cláusula de prazo deverá ser convencionada em separado, por\n    meio de manifestação expressa do consumidor.",
+      "parent_id": "CDC_art18"
+    },
+    {
+      "node_id": "CDC_art18_par3",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "§ 3°",
+      "sub_type": "paragraph",
+      "text": "§ 3° O consumidor poderá fazer uso imediato das alternativas do § 1° deste artigo\n    sempre que, em razão da extensão do vício, a substituição das partes viciadas puder\n    comprometer a qualidade ou características do produto, diminuir-lhe o valor ou se tratar\n    de produto essencial.",
+      "parent_id": "CDC_art18"
+    },
+    {
+      "node_id": "CDC_art18_par4",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "§ 4°",
+      "sub_type": "paragraph",
+      "text": "§ 4° Tendo o consumidor optado pela alternativa do inciso I do § 1° deste artigo, e\n    não sendo possível a substituição do bem, poderá haver substituição por outro de\n    espécie, marca ou modelo diversos, mediante complementação ou restituição de eventual\n    diferença de preço, sem prejuízo do disposto nos incisos II e III do § 1° deste\n    artigo.",
+      "parent_id": "CDC_art18"
+    },
+    {
+      "node_id": "CDC_art18_par5",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "§ 5°",
+      "sub_type": "paragraph",
+      "text": "§ 5° No caso de fornecimento de produtos in natura, será responsável perante o\n    consumidor o fornecedor imediato, exceto quando identificado claramente seu produtor.",
+      "parent_id": "CDC_art18"
+    },
+    {
+      "node_id": "CDC_art18_par6",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "§ 6°",
+      "sub_type": "paragraph",
+      "text": "§ 6° São impróprios ao uso e consumo:",
+      "parent_id": "CDC_art18"
+    },
+    {
+      "node_id": "CDC_art18_par6_incI",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "I",
+      "sub_type": "incise",
+      "text": "I - os produtos cujos prazos de validade estejam vencidos;",
+      "parent_id": "CDC_art18_par6"
+    },
+    {
+      "node_id": "CDC_art18_par6_incII",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "II",
+      "sub_type": "incise",
+      "text": "II - os produtos deteriorados, alterados, adulterados, avariados, falsificados,\n    corrompidos, fraudados, nocivos à vida ou à saúde, perigosos ou, ainda, aqueles em\n    desacordo com as normas regulamentares de fabricação, distribuição ou apresentação;",
+      "parent_id": "CDC_art18_par6"
+    },
+    {
+      "node_id": "CDC_art18_par6_incIII",
+      "node_type": "LegalSubProvision",
+      "law": "CDC",
+      "article": 18,
+      "sub_ref": "III",
+      "sub_type": "incise",
+      "text": "III - os produtos que, por qualquer motivo, se revelem inadequados ao fim a que se\n    destinam.",
+      "parent_id": "CDC_art18_par6"
+    },
+    {
+      "node_id": "EXT_RESP_1453275/SC",
+      "node_type": "ExternalCitation",
+      "citation_raw": "REsp 1453275/SC",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_ARTIGO_18_DO_CÓDIGO_DE_DEFESA_DO_CONSUMIDOR",
+      "node_type": "ExternalCitation",
+      "citation_raw": "artigo 18 do Código de Defesa do Consumidor",
+      "inferred_type": "ConstitutionalControl",
+      "court": "STF",
+      "authority_weight": 1.0
+    },
+    {
+      "node_id": "EXT_RESP_1.651.550/DF",
+      "node_type": "ExternalCitation",
+      "citation_raw": "REsp 1.651.550/DF",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_RESP_1477691/DF",
+      "node_type": "ExternalCitation",
+      "citation_raw": "REsp  1477691/DF",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_HC_195.824/DF",
+      "node_type": "ExternalCitation",
+      "citation_raw": "HC 195.824/DF",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_RESP_1175679/RS",
+      "node_type": "ExternalCitation",
+      "citation_raw": "REsp 1175679/RS",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_HC_132.257/SP",
+      "node_type": "ExternalCitation",
+      "citation_raw": "HC 132.257/SP",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_HC_90779,",
+      "node_type": "ExternalCitation",
+      "citation_raw": "HC 90779,",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_RESP_466.667/SP",
+      "node_type": "ExternalCitation",
+      "citation_raw": "REsp 466.667/SP",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_RESP_1.243.632/RS",
+      "node_type": "ExternalCitation",
+      "citation_raw": "REsp 1.243.632/RS",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_RESP_929.893/PR",
+      "node_type": "ExternalCitation",
+      "citation_raw": "REsp 929.893/PR",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    },
+    {
+      "node_id": "EXT_RESP_962.980/SP",
+      "node_type": "ExternalCitation",
+      "citation_raw": "REsp 962.980/SP",
+      "inferred_type": "Case",
+      "court": "STJ",
+      "authority_weight": 0.5
+    }
+  ],
+  "edges": [
+    {
+      "source": "CDC_art18",
+      "target": "CC_ADI_5158",
+      "relation": "CONTROLLED_BY",
+      "weight": 1.0,
+      "metadata": {
+        "type": "constitutional_control"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "STJThesis_EDIÇÃO_N._83:_BANCÁRIO_-_II_t6",
+      "relation": "SUMMARIZED_BY_STJ_THESIS",
+      "weight": 0.9,
+      "metadata": {
+        "edition": "EDIÇÃO N. 83: BANCÁRIO - II"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t5",
+      "relation": "SUMMARIZED_BY_STJ_THESIS",
+      "weight": 0.9,
+      "metadata": {
+        "edition": "EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t6",
+      "relation": "SUMMARIZED_BY_STJ_THESIS",
+      "weight": 0.9,
+      "metadata": {
+        "edition": "EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "STJThesis_EDIÇÃO_N._42:_DIREITO_DO_CONSUMIDOR_II_t12",
+      "relation": "SUMMARIZED_BY_STJ_THESIS",
+      "weight": 0.9,
+      "metadata": {
+        "edition": "EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "STJThesis_EDIÇÃO_N._74:_DIREITO_DO_CONSUMIDOR_III_t18",
+      "relation": "SUMMARIZED_BY_STJ_THESIS",
+      "weight": 0.9,
+      "metadata": {
+        "edition": "EDIÇÃO N. 74: DIREITO DO CONSUMIDOR III"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "STJThesis_EDIÇÃO_N._99:_DOS_CRIMES_CONTRA_A_ORDEM_TRIBUTÁRIA,ECONÔMICA_E_CONTRA_AS_RELAÇÕES_DE_CONSUMO_-_II_t9",
+      "relation": "SUMMARIZED_BY_STJ_THESIS",
+      "weight": 0.9,
+      "metadata": {
+        "edition": "EDIÇÃO N. 99: DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA,ECONÔMICA E\nCONTRA AS RELAÇÕES DE CONSUMO - II"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "STJThesis_EDIÇÃO_N._189:_EMBARGOS_DE_DECLARAÇÃO_I_t7",
+      "relation": "SUMMARIZED_BY_STJ_THESIS",
+      "weight": 0.9,
+      "metadata": {
+        "edition": "EDIÇÃO N. 189: EMBARGOS DE DECLARAÇÃO I"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "STJThesis_EDIÇÃO_N._189:_EMBARGOS_DE_DECLARAÇÃO_I_t7",
+      "relation": "SUMMARIZED_BY_STJ_THESIS",
+      "weight": 0.9,
+      "metadata": {
+        "edition": "EDIÇÃO N. 189: EMBARGOS DE DECLARAÇÃO I"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "Topic_449",
+      "relation": "INTERPRETED_BY_BINDING_THESIS",
+      "weight": 1.0,
+      "metadata": {
+        "status": "Trânsito em Julgado"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "Topic_200",
+      "relation": "INTERPRETED_BY_BINDING_THESIS",
+      "weight": 1.0,
+      "metadata": {
+        "status": "Trânsito em Julgado"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1556132",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 1.0,
+      "metadata": {
+        "semelhantes": 34,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1825020",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.8563,
+      "metadata": {
+        "semelhantes": 20,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "HC_263025",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.7969,
+      "metadata": {
+        "semelhantes": 16,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1111736",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.7969,
+      "metadata": {
+        "semelhantes": 16,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "AREsp_627782",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.7214,
+      "metadata": {
+        "semelhantes": 12,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1597668",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.6744,
+      "metadata": {
+        "semelhantes": 10,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "AREsp_1691422",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.618,
+      "metadata": {
+        "semelhantes": 8,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1644405",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.618,
+      "metadata": {
+        "semelhantes": 8,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1060917",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.6476,
+      "metadata": {
+        "semelhantes": 9,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "AREsp_2154169",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.5849,
+      "metadata": {
+        "semelhantes": 7,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1737415",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.618,
+      "metadata": {
+        "semelhantes": 8,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "HC_191663",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.618,
+      "metadata": {
+        "semelhantes": 8,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1300606",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.618,
+      "metadata": {
+        "semelhantes": 8,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "AREsp_1276462",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.5849,
+      "metadata": {
+        "semelhantes": 7,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "AREsp_92525",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.5473,
+      "metadata": {
+        "semelhantes": 6,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1289795",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "EREsp_981949",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1067230",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1102578",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1181141",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_802832",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1252215",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1576779",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "HC_115650",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "AREsp_1724643",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.4527,
+      "metadata": {
+        "semelhantes": 4,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "AREsp_1066454",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.3899,
+      "metadata": {
+        "semelhantes": 3,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1638034",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.3899,
+      "metadata": {
+        "semelhantes": 3,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1299803",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.3899,
+      "metadata": {
+        "semelhantes": 3,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1898171",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.3899,
+      "metadata": {
+        "semelhantes": 3,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "REsp_1610821",
+      "relation": "INTERPRETED_BY_LEADING_CASE",
+      "weight": 0.3899,
+      "metadata": {
+        "semelhantes": 3,
+        "is_leading_case": true,
+        "dispositivo_legal_id": 78,
+        "nome_corpus": "mix"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "CDC_art18_par1",
+      "relation": "HAS_SUB_PROVISION",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "paragraph",
+        "sub_ref": "§ 1°"
+      }
+    },
+    {
+      "source": "CDC_art18_par1",
+      "target": "CDC_art18_par1_incI",
+      "relation": "HAS_INCISE",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "incise",
+        "sub_ref": "I"
+      }
+    },
+    {
+      "source": "CDC_art18_par1",
+      "target": "CDC_art18_par1_incII",
+      "relation": "HAS_INCISE",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "incise",
+        "sub_ref": "II"
+      }
+    },
+    {
+      "source": "CDC_art18_par1",
+      "target": "CDC_art18_par1_incIII",
+      "relation": "HAS_INCISE",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "incise",
+        "sub_ref": "III"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "CDC_art18_par2",
+      "relation": "HAS_SUB_PROVISION",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "paragraph",
+        "sub_ref": "§ 2°"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "CDC_art18_par3",
+      "relation": "HAS_SUB_PROVISION",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "paragraph",
+        "sub_ref": "§ 3°"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "CDC_art18_par4",
+      "relation": "HAS_SUB_PROVISION",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "paragraph",
+        "sub_ref": "§ 4°"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "CDC_art18_par5",
+      "relation": "HAS_SUB_PROVISION",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "paragraph",
+        "sub_ref": "§ 5°"
+      }
+    },
+    {
+      "source": "CDC_art18",
+      "target": "CDC_art18_par6",
+      "relation": "HAS_SUB_PROVISION",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "paragraph",
+        "sub_ref": "§ 6°"
+      }
+    },
+    {
+      "source": "CDC_art18_par6",
+      "target": "CDC_art18_par6_incI",
+      "relation": "HAS_INCISE",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "incise",
+        "sub_ref": "I"
+      }
+    },
+    {
+      "source": "CDC_art18_par6",
+      "target": "CDC_art18_par6_incII",
+      "relation": "HAS_INCISE",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "incise",
+        "sub_ref": "II"
+      }
+    },
+    {
+      "source": "CDC_art18_par6",
+      "target": "CDC_art18_par6_incIII",
+      "relation": "HAS_INCISE",
+      "weight": 1.0,
+      "metadata": {
+        "sub_type": "incise",
+        "sub_ref": "III"
+      }
+    },
+    {
+      "source": "REsp_1556132",
+      "target": "EXT_RESP_1453275/SC",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "REsp 1453275/SC",
+        "context": "tatação que se limita a elencar a mercadoria apreendida.\r 2. Recurso provido.\r (REsp 1453275/SC, da minha relatoria, SEXTA TURMA, julgado em 15/09/2015, DJe 01/10/2015)\r RECUR",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "REsp_1556132",
+      "target": "EXT_ARTIGO_18_DO_CÓDIGO_DE_DEFESA_DO_CONSUMIDOR",
+      "relation": "CITES_EXTERNAL",
+      "weight": 1.0,
+      "metadata": {
+        "citation_text": "artigo 18 do Código de Defesa do Consumidor",
+        "context": "cerca do conceito de produto impróprio para o consumo, dispõe o parágrafo 6º do artigo 18 do Código de Defesa do Consumidor, verbis:\r § 6° São impróprios ao uso e consumo:\r I -  os produtos cujos prazos ",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "REsp_1825020",
+      "target": "EXT_RESP_1.651.550/DF",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "REsp 1.651.550/DF",
+        "context": "onais, sob pena de usurpação da competência reservada à Corte Suprema\" (AgRg no REsp 1.651.550/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/04/2017, DJe 05/05/2017",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "HC_263025",
+      "target": "EXT_RESP_1477691/DF",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "REsp  1477691/DF",
+        "context": "stra LAURITA VAZ, QUINTA TURMA, julgado em 28/05/2013, DJe 06/06/2013 e AgRg no REsp  1477691/DF,  Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/10/2016, DJe 28/10/20",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "HC_263025",
+      "target": "EXT_HC_195.824/DF",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "HC 195.824/DF",
+        "context": " é formal, não estando incluído na exigência da referida  Súmula  Vinculante.  (HC 195.824/DF, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 28/05/2013, DJe 06/06/2013",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "REsp_1111736",
+      "target": "EXT_RESP_1175679/RS",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "REsp 1175679/RS",
+        "context": "ercadorias apreendidas estavam em condições impróprias para o consumo. (AgRg no REsp 1175679/RS, Relator o Ministro Sebastião Reis Júnior, DJe 28/3/2012).\r Para caracterizar o",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "REsp_1111736",
+      "target": "EXT_HC_132.257/SP",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "HC 132.257/SP",
+        "context": "nsável a demonstração inequívoca da potencialidade lesiva ao consumidor final. (HC 132.257/SP, Relatora a Ministra Laurita Vaz, DJe 08/09/2011).\r Não é diferente o entendime",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "REsp_1111736",
+      "target": "EXT_HC_90779,",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "HC 90779,",
+        "context": "ericial para aferir a nocividade dos produtos apreendidos. 3. Ordem concedida. (HC 90779, Relator o Ministro CARLOS BRITTO, DJe 23/10/2008). \r Portanto, ao que se tem, n",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "AREsp_627782",
+      "target": "EXT_RESP_466.667/SP",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "REsp 466.667/SP",
+        "context": " pacto celebrado, qual seja, o de assegurar eficiente amparo à saúde e à vida\" (REsp 466.667/SP, Rel. Ministro Aldir Passarinho Júnior, Quarta Turma, julgado em 27.11.2007, DJ",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "AREsp_627782",
+      "target": "EXT_RESP_1.243.632/RS",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "REsp 1.243.632/RS",
+        "context": "cos da Terceira e da Quarta Turma do STJ.\r (...)\r 4. RECURSO ESPECIAL PROVIDO. (REsp 1.243.632/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 11.09.201",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "AREsp_627782",
+      "target": "EXT_RESP_929.893/PR",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "REsp 929.893/PR",
+        "context": " teor da Súmula 7/STJ.\r 3. Agravo regimental a que se nega provimento. (AgRg no REsp 929.893/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 15.03.2012, DJe 13.04.2012",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    },
+    {
+      "source": "AREsp_627782",
+      "target": "EXT_RESP_962.980/SP",
+      "relation": "CITES_EXTERNAL",
+      "weight": 0.5,
+      "metadata": {
+        "citation_text": "REsp 962.980/SP",
+        "context": "L-00209-02 PP-00821) 7. Recurso especial provido para restabelecer a sentença. (REsp 962.980/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13.03.2012, DJe 15",
+        "needs_llm_classification": true,
+        "resolved": false
+      }
+    }
+  ],
+  "validations": {
+    "V1_binding_thesis_exists": true,
+    "V2_weights_in_range": true,
+    "V3_all_nodes_typed": true,
+    "V4_controlled_by_source": true
+  }
+}
