@@ -426,7 +426,7 @@ if __name__ == "__main__":
     # nodes, edges, G = run_pilot(fetch_full_text=True)
 
     # ── Multi-article (Arts. 1–30) ────────────────────────────────
-    nodes, edges, G = run_multi_article(list(range(1, 31)))
+    nodes, edges, G = run_multi_article(list(range(1, 31)), fetch_full_text=True)
 
     # ── LLM integration (uncomment to activate) ──────────────────
     # import openai
