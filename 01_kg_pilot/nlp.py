@@ -167,7 +167,9 @@ def resolve_citations(
                 metadata={**edge.metadata, "resolved": True},
             ))
         else:
-            stub_id = f"EXT_{citation_norm}"
+            # Sanitize so stub_id matches the CSV nodeId (dots/slashes → underscores)
+            citation_norm_safe = re.sub(r"[^A-Za-z0-9_\-]", "_", citation_norm)
+            stub_id = f"EXT_{citation_norm_safe}"
             inferred_type, court = _infer_type(citation_text)
             meta = edge.metadata
 

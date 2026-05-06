@@ -46,7 +46,12 @@ def export_neo4j_csv(
     id_map: dict[str, str] = {nid: _sanitize_id(nid) for nid in nodes}
 
     by_type: dict[str, list] = {}
+    _seen_ids: set[str] = set()
     for node in nodes.values():
+        sid = _sanitize_id(node.node_id)
+        if sid in _seen_ids:
+            continue
+        _seen_ids.add(sid)
         by_type.setdefault(getattr(node, "node_type", "Unknown"), []).append(node)
 
     def _path(label: str) -> str:
@@ -181,8 +186,13 @@ def export_data_importer_csv(
 
     id_map: dict[str, str] = {nid: _sanitize_id(nid) for nid in nodes}
 
+    _seen_ids: set[str] = set()
     by_type: dict[str, list] = {}
     for node in nodes.values():
+        sid = _sanitize_id(node.node_id)
+        if sid in _seen_ids:
+            continue
+        _seen_ids.add(sid)
         by_type.setdefault(getattr(node, "node_type", "Unknown"), []).append(node)
 
     def _npath(label: str) -> str:

@@ -108,8 +108,8 @@ CREATE (:ConstitutionalControl {
 
 // ── 8. Nodes: ExternalCitation ─────────────────────────────────────
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Eryclis/legal_kg_reasoning/main/01_kg_pilot/output/cdc_art1_30/neo4j_data_importer/nodes_ExternalCitation.csv' AS row
-CREATE (:ExternalCitation {
-  nodeId: row.nodeId,
+MERGE (n:ExternalCitation {nodeId: row.nodeId})
+SET n += {
   citation_raw: row.citation_raw,
   inferred_type: row.inferred_type,
   court: row.court,
@@ -120,7 +120,7 @@ CREATE (:ExternalCitation {
   rapporteur: row.rapporteur,
   decision_date: row.decision_date,
   cited_ementa: row.cited_ementa
-});
+};
 
 // ── 9. Rel: CONTROLLED_BY ─────────────────
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/Eryclis/legal_kg_reasoning/main/01_kg_pilot/output/cdc_art1_30/neo4j_data_importer/rel_CONTROLLED_BY.csv' AS row
