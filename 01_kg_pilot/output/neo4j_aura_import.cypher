@@ -9,13 +9,21 @@
 MATCH (n) DETACH DELETE n;
 
 // ── 1. Constraints ─────────────────────────────────────────────
-CREATE CONSTRAINT IF NOT EXISTS FOR (n:LegalProvision)       REQUIRE n.nodeId IS UNIQUE;
-CREATE CONSTRAINT IF NOT EXISTS FOR (n:LegalSubProvision)    REQUIRE n.nodeId IS UNIQUE;
-CREATE CONSTRAINT IF NOT EXISTS FOR (n:Case)                 REQUIRE n.nodeId IS UNIQUE;
-CREATE CONSTRAINT IF NOT EXISTS FOR (n:RepetitiveTopic)      REQUIRE n.nodeId IS UNIQUE;
-CREATE CONSTRAINT IF NOT EXISTS FOR (n:STJThesis)            REQUIRE n.nodeId IS UNIQUE;
+// Drop existing constraints first (handles NODE KEY conflict from Data Importer)
+DROP CONSTRAINT nodeId_LegalProvision_key       IF EXISTS;
+DROP CONSTRAINT nodeId_LegalSubProvision_key    IF EXISTS;
+DROP CONSTRAINT nodeId_Case_key                 IF EXISTS;
+DROP CONSTRAINT nodeId_RepetitiveTopic_key      IF EXISTS;
+DROP CONSTRAINT nodeId_STJThesis_key            IF EXISTS;
+DROP CONSTRAINT nodeId_ConstitutionalControl_key IF EXISTS;
+DROP CONSTRAINT nodeId_ExternalCitation_key     IF EXISTS;
+CREATE CONSTRAINT IF NOT EXISTS FOR (n:LegalProvision)        REQUIRE n.nodeId IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (n:LegalSubProvision)     REQUIRE n.nodeId IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (n:Case)                  REQUIRE n.nodeId IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (n:RepetitiveTopic)       REQUIRE n.nodeId IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (n:STJThesis)             REQUIRE n.nodeId IS UNIQUE;
 CREATE CONSTRAINT IF NOT EXISTS FOR (n:ConstitutionalControl) REQUIRE n.nodeId IS UNIQUE;
-CREATE CONSTRAINT IF NOT EXISTS FOR (n:ExternalCitation)     REQUIRE n.nodeId IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (n:ExternalCitation)      REQUIRE n.nodeId IS UNIQUE;
 
 // ── 2. Nodes: LegalProvision ───────────────────────────────────
 LOAD CSV WITH HEADERS FROM
